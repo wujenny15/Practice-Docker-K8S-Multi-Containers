@@ -7,7 +7,7 @@ metadata:
 spec: 
   containers: 
     - name: client
-      image: wujenny15/ks-multi-client
+      image: wujenny15/multi-worker
       ports: 
         - containerPort: 3000
       
